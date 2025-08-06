@@ -1,0 +1,43 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Docker
+*.log
+*.pid
+*.sqlite3
+
+# LangChain memory or debug dumps (if any)
+*.jsonl
+*.db
+
+# Node modules (if any FE uses JS)
+node_modules/
+dist/
+build/
+
+# Streamlit config cache
+.streamlit/config.toml
+.streamlit/secrets.toml
